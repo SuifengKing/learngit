@@ -1,3 +1,4 @@
 my fist day use git
 ha ha ha
 suifengking
+force
