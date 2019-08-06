@@ -7,4 +7,5 @@ class aaa(object):
 		print('')
 
 if __name__ == '__main':
-	pass
+    print('')
+    pass
