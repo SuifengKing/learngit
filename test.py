@@ -9,3 +9,4 @@ class aaa(object):
 if __name__ == '__main':
     print('')
     pass
+    aaa()
